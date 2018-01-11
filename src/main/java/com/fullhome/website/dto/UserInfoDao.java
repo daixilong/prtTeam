@@ -10,6 +10,4 @@ public interface UserInfoDao {
    public UserInfo getById(long userId);
 
    public void  insertUserInfo(UserInfo userInfo);
-
-   public void add();
 }
