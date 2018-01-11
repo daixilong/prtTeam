@@ -11,5 +11,5 @@ public interface UserInfoDao {
 
    public void  insertUserInfo(UserInfo userInfo);
 
-
+   public void add();
 }
